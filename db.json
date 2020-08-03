@@ -1,7 +1,7 @@
 {
   "courses": [
     { "id": 1, "title": "E-books & Downloads", "content": "<h1>test</h1>" },
-    { "id": 2, "title": "Winnen in Google", "content": "<h1>test</h1>" },
+    { "id": 2, "title": "Winnen in Google", "content": "<h1>test</h1><a href='https://reddit.com'>To reddit</a>" },
     { "id": 3, "title": "Content Marketing", "content": "<h1>test</h1>" },
     { "id": 4, "title": "Meester in SEO", "content": "<h1>test</h1>" },
     { "id": 5, "title": "Membership & Community", "content": "<h1>test</h1>" },
