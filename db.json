@@ -8,6 +8,8 @@
     { "id": 6, "title": "IMU Events", "content": "<h1>test</h1>" }
   ],
   "blogs": [
-    { "id": 1, "title": "Verbeter je focus voor persoonlijke groei - Met Mark Tigchelaar", "content": "Wauw het is alweer tijd voor het 25ste Slippertje in de Ondernemen Op Slippers podcast. Online marketing podcast door Tonny Loorbach en..", "image": "https://media-01.imu.nl/storage/imu.nl/6529/mark-tigchelaar-1170x500.png?t=1601285198", "likes": "23", "comments": "5", "created_at": "28 september 2020" }
+    { "id": 1, "title": "Verbeter je focus voor persoonlijke groei - Met Mark Tigchelaar", "content": "Wauw het is alweer tijd voor het 25ste Slippertje in de Ondernemen Op Slippers podcast. Online marketing podcast door Tonny Loorbach en..", "image": "https://media-01.imu.nl/storage/imu.nl/6529/mark-tigchelaar-1170x500.png?t=1601285198", "likes": "23", "comments": "5", "created_at": "28 september 2020" },
+    { "id": 2, "title": "Google lanceert ‘Licentieerbaar’ afbeeldingslabel met filter in Google Afbeeldingen", "content": "De ‘Licentieerbaar' badge in Afbeeldingsresultaten is nu uit als beta. Google veranderde ook het ‘Gebruiksrechten' zoekfilter..", "image": "https://media-01.imu.nl/storage/imu.nl/7711/google-licentieerbaar-afbeeldingslabel-1170x500.jpg?t=1601017856", "likes": "12", "comments": "3", "created_at": "25 september 2020" },
+    { "id": 3, "title": "Ondernemen in het buitenland: wat komt er kijken bij internationaal gaan?", "content": "In Nederland wonen zo'n 17 miljoen mensen. Maar er zijn op de wereld 430 miljoen mensen die Engels spreken..", "image": "https://media-01.imu.nl/storage/imu.nl/1296/internationaal-gaan-business-1170x500.jpg?t=1600929058", "likes": "1", "comments": "0", "created_at": "24 september 2020" }
   ]
 }
