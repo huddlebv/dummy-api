@@ -8,6 +8,6 @@
     { "id": 6, "title": "IMU Events", "content": "<h1>test</h1>" }
   ],
   "blogs": [
-    { "id": 1, "title": "Verbeter je focus voor persoonlijke groei - Met Mark Tigchelaar", "content": "Wauw het is alweer tijd voor het 25ste Slippertje in de Ondernemen Op Slippers podcast. Online marketing podcast door Tonny Loorbach en..", "image": "https://media-01.imu.nl/storage/imu.nl/6529/mark-tigchelaar-1170x500.png?t=1601285198", "likes": "23", "comments": "5", "created_at": "28 september 2020" },
-  ],
+    { "id": 1, "title": "Verbeter je focus voor persoonlijke groei - Met Mark Tigchelaar", "content": "Wauw het is alweer tijd voor het 25ste Slippertje in de Ondernemen Op Slippers podcast. Online marketing podcast door Tonny Loorbach en..", "image": "https://media-01.imu.nl/storage/imu.nl/6529/mark-tigchelaar-1170x500.png?t=1601285198", "likes": "23", "comments": "5", "created_at": "28 september 2020" }
+  ]
 }
